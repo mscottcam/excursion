@@ -1,0 +1,32 @@
+body {background-color: black;
+text-align: center;
+
+}
+p, h1, h2, h3, img {text-align: center;
+
+}
+h1 {font-family: verdana;
+  color: white;
+  font-weight: normal;
+  font-size: 50px;
+
+}
+a {color: aquamarine;
+  font-size: 16px;
+  font-family: verdana;
+
+}
+h2 {font-family: verdana;
+font-weight: 300;
+font-size: 42px;
+color: white;
+
+}
+h3 {font-family: verdana;
+font-size: 21px;
+color: gray;
+
+}
+.copywrite {text-align: right;
+
+}
